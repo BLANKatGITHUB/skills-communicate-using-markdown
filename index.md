@@ -3,3 +3,6 @@
 ```html
 <p> using html in markdown :( </p>
 ```
+- [x] hello :D
+- [x] image
+- [ ] forgot
